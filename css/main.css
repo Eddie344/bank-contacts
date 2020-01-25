@@ -217,7 +217,7 @@ p {
     padding-bottom: 7px;
     width: 100%;
 }
-.document-link__outer {
+.document-link__outer:hover {
     text-decoration: none;
 }
 .document-link__wrap {
